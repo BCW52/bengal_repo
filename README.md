@@ -5,7 +5,7 @@ Edit your pacman.conf using your favourite text editor. I have used sublime and 
                                     sudo subl /etc/pacman.conf
 
 
- Add this to you pacma.conf file:-
+ Add this to you pacman.conf file:-
                                       
                                       [bengal_repo]
                                       SigLevel = Optional TrustAll
