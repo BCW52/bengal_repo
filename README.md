@@ -1,5 +1,5 @@
 # Official Repositoy of BengalBoot
-# How to use on Other Arch Based OS:- 
+## How to use on Other Arch Based OS:- 
 Edit your pacman.conf using your favourite text editor. I have used sublime and my command was 
 
                                     sudo subl /etc/pacman.conf
